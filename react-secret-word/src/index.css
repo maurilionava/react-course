@@ -1,0 +1,29 @@
+body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    color: white;
+    background: rgba(4,110,132,1);
+    /* background: linear-gradient(180deg, rgba(22,18,101,1) 0%, rgba(4,110,132,1) 100%); */
+}
+
+button {
+  background:  #1646a0;
+  color: #FFF;
+  padding: 0 45px;
+  border: 2px solid #FFF;
+  border-radius: 25px;
+  height: 50px;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 1.2em;
+  cursor: pointer;
+  transition: .4s;
+}
+
+button:hover {
+  background-color: #0923af;
+}

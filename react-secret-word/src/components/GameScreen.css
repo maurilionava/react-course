@@ -1,0 +1,16 @@
+.gamePanel span {
+    background-color: #fff;
+    padding: 4px 10px;
+    color: black;
+    font-weight: bold;
+    font-size: 4em;
+    border: 5px solid black;
+    margin: 2px;
+}
+
+.playerGuess {
+    width: 25px;
+    text-align: center;
+    margin: 10px 25px;
+    font-size: 2em;
+}
