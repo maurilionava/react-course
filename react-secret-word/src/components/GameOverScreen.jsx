@@ -1,5 +1,3 @@
-import styles from './GameOverScreen.css'
-
 const GameOver = ({retry}) => {
     return(
         <div>
